@@ -1,0 +1,22 @@
+html,
+body{
+    background:#d5e1ef;
+    height:100%
+    margin: 0px;
+    padding:0px;
+    width: 100%;
+
+    .card-container{
+        background: #fff;   
+        box-shadow: 0px;
+        border-radius: 20px;
+        display: inline-block;
+        overflow: hidden;
+        padding: 20px;
+         
+    }
+
+    .card-container .qr-container{
+        
+    }
+}
